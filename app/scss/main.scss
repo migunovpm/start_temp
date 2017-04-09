@@ -1,0 +1,17 @@
+// указать переменные с цветами
+// colors
+
+
+// layout@import "fonts"
+@import "vars";
+@import "layout/settings";
+@import "layout/fonts";
+
+
+// sections
+@import "sections/header";
+@import "sections/sidebar";
+@import "sections/page";
+@import "sections/footer";
+
+@import "media" // Всегда в конце
